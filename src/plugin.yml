@@ -1,0 +1,7 @@
+name: BookGui
+main: com.willzcode.BookGui
+version: 1.0.0
+depend: [ProtocolLib]
+
+commands:
+  bgui:
